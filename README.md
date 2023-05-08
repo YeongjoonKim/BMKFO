@@ -4,7 +4,7 @@
     <a href="#-Overall-architecture"> 🔍 Overall architecture</a> •
     <a href="#-Quick-Start"> 🛵 Quick Start</a> •
     <a href="#-Papers"> 📜 Papers</a> •
-    <a href="#-Acknowledgement">🙏Acknowledgement</a>
+    <a href="#-Acknowledgement">📌Acknowledgement</a>
 </p>
 
 ### 🔍 Overall architecture
@@ -45,6 +45,6 @@ torchvision==0.4.1
 
 papers
 
-### 🙏 Acknowledgement
+### 📌 Acknowledgement
 
 Acknowledgement
