@@ -1,9 +1,9 @@
 # BMKFO
 ## Overall architecture of the proposed model
 
-<div align="center">
+<p align="center">
 ![](./images/Overall_architecture.png)
-</div>
+</p>
 ## Quick Start
 
 To get started, please first setup the environment:
