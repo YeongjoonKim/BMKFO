@@ -1,5 +1,6 @@
 # BMKFO
-## Overall architecture of the proposed model
+
+Overall architecture of the proposed model
 
 ![](./images/Overall_architecture.png)
 
