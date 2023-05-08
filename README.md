@@ -1,6 +1,6 @@
 # BMKFO
 
-[Preprint] [Bidirectional Meta-Kronecker Factored Optimizer and Husdorff Distance Loss for Few-shot Medical Image Segmentation](https://www.researchsquare.com/article/rs-2324435/v1)
+[Preprint] [Bidirectional Meta-Kronecker Factored Optimizer and Hausdorff Distance Loss for Few-shot Medical Image Segmentation](https://www.researchsquare.com/article/rs-2324435/v1)
 
 <p align="center">
     <a href="#-Overall-architecture"> 🔍 Overall architecture</a> •
