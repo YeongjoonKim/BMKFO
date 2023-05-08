@@ -1,7 +1,7 @@
 # BMKFO
 ## Overall architecture of the proposed model
 
-<div align=center>
+<div align="center">
 ![](./images/Overall_architecture.png)
 </div>
 ## Quick Start
