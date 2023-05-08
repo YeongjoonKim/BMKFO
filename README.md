@@ -1,3 +1,3 @@
 # BMKFO
 
-![](./img/overall.png)
+![](./img/Overall_architecture.png)
