@@ -49,7 +49,7 @@ papers
 
 **Bidirectional Meta-Kronecker factored optimizer**
 
-#![](./images/BM-kfo.png)
+'![](./images/BM-kfo.png)
 
 ### 📌 Acknowledgement
 
