@@ -46,7 +46,19 @@ torchvision==0.4.1
 ### ⚙️ Installation
 #### 1. Data pre-processing
 
-Installation
+Abdominal MRI dataset
+
+Download Combined Healthy Abdominal Organ Segmentation dataset and put the /MR folder under ```./data/CHAOST2/``` directory
+
+Converting downloaded data (T2 fold) to nii files in 3D for the ease of reading
+
+run ```./data/CHAOST2/dcm_img_to_nii.sh``` to convert dicom images to nifti files.
+
+run ```./data/CHAOST2/png_gth_to_nii.ipynp``` to convert ground truth with png format to nifti.
+
+Pre-processing downloaded images
+run ```./data/CHAOST2/image_normalize.ipynb```
+
 
 ### 📜 Papers
 
