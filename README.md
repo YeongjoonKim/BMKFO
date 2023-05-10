@@ -47,7 +47,9 @@ torchvision==0.4.1
 
 papers
 
-![](./images/BM-kfo.png)
+**Bidirectional Meta-Kronecker factored optimizer**
+
+#![](./images/BM-kfo.png)
 
 ### 📌 Acknowledgement
 
