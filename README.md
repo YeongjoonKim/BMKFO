@@ -44,7 +44,8 @@ torch==1.3.0
 torchvision==0.4.1
 ```
 ### ⚙️ Installation
-#### Data pre-processing
+#### 1. Data pre-processing
+
 Installation
 
 ### 📜 Papers
