@@ -48,7 +48,7 @@ torchvision==0.4.1
 
 Abdominal MRI dataset
 
-Download Combined Healthy Abdominal Organ Segmentation dataset and put the /MR folder under ```./data/CHAOST2/``` directory
+Download Combined Healthy Abdominal Organ Segmentation dataset(<a href="https://chaos.grand-challenge.org/" target="_blank">CHAOS dataset</a>) and put the /MR folder under ```./data/CHAOST2/``` directory
 
 Converting downloaded data (T2 fold) to nii files in 3D for the ease of reading
 
